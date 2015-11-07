@@ -1,6 +1,7 @@
 module.exports = function(url) {
-  return require('child_process').execSync(
-    "curl '" + url.replace(/\'/g, "'\\''") + "'",
+  return require('child_process').execFileSync(
+    "curl",
+    [url],
     {encoding: 'utf8'}
   );
 }
