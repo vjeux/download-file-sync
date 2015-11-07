@@ -1,7 +1,8 @@
 {
   "name": "download-file-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Does exactly what you expects",
+  "repository": "git@github.com:vjeux/download-file-sync.git",
   "main": "index.js",
   "author": "vjeux",
   "license": "MIT"
