@@ -1,0 +1,8 @@
+{
+  "name": "download-file-sync",
+  "version": "1.0.0",
+  "description": "Does exactly what you expects",
+  "main": "index.js",
+  "author": "vjeux",
+  "license": "MIT"
+}
